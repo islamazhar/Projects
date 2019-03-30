@@ -1,0 +1,18 @@
+ </div>
+
+
+        </div>
+        <br class="spacer" />	
+        <div id="footer">
+            <div class="footer">
+                <ul>
+                    <li><a href="../../../welcome.jsp" title="Home">home</a>|</li>
+                    <li><a href="../../../Contact.jsp" title="Contact">contact</a></li>
+                </ul>
+                <p align='center'>&copy;Online Problem Archive and Judge</p>
+                <p align='center'> All rights reserved. </p>
+                <br class="spacer" />
+            </div>
+        </div>
+    </body>
+</html>

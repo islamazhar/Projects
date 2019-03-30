@@ -1,0 +1,64 @@
+<%-- 
+    Document   : index
+    Created on : Feb 27, 2014, 1:25:32 AM
+    Author     : acer
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="icon" href="../../images/favicon.ico">
+        <link href="../../style.css" rel="stylesheet" type="text/css" />
+        <title>Online Judge</title>
+
+    </head>
+    <body>
+
+        <div id="topNav">	
+            <ul>
+                <li><a href="../../welcome.jsp" title="Home">home</a></li>
+                <li><a href="../../problems.jsp" title="Problems">problems</a></li>
+                <li><a href="../../logout.jsp" title = "logout" > logout</a></li>
+		<li><a href="../../submit.jsp" title="Submit">Submit</a></li>
+
+            </ul>
+        </div>
+
+        <div id="body">
+            <img src="../../images/logo.gif" alt="OnlineJudge" width="309" height="47" border="0" class="logo" />
+
+            <div class='bodyText'>
+                <br>
+                <br>
+                <h5> Problem Statement:		</h5>
+		<p>
+			Naved has been preparing  hard for the next ACM-ICPC world finals.He starts doing contest at 11:11AM ON 11/11/11 .However he is really bad in time management.He also doesn't wear watch .
+			Given the finishing time of the contest you will have to tell him the total number of minutes he did the contest.
+		</p>
+		<br>
+		<h5>
+			SAMPLE INPUT:
+		</h5>
+		12 13 14<br>
+		<h5>SAMPLE OUTPUT:</h5>
+		1563
+            </div>
+
+
+        </div>
+        <br class="spacer" />	
+        <div id="footer">
+            <div class="footer">
+                <ul>
+<!--                    <li><a href="index.jsp" title="Home">home</a>|</li>
+                    <li><a href="contact.jsp" title="Contact">contact</a></li>-->
+                </ul>
+                <p align='center'>&copy;Online Problem Archive and Judge</p>
+                <p align='center'> All rights reserved. </p>
+                <br class="spacer" />
+            </div>
+        </div>
+    </body>
+</html>

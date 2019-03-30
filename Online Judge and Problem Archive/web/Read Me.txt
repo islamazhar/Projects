@@ -1,0 +1,18 @@
+Welcome Admin
+
+To submit your own problem and get it uploaded at Online Judge follow the instructions.
+
+1. Modify the statement.jsp according to your own problem using a text editor (like jEdit/notepad++)
+2. Modify the in.txt and out.txt accordingly.
+3. You must submit your own solution and expected complexity of the Problem.
+4. Attach necessary media file(s).
+5. Zip all the files in a .zip Archive and rename it according to the problem name.
+
+
+
+Resources: 
+
+jEdit :  http://jedit.org/index.php?page=download
+notepad++ : http://notepad-plus-plus.org/download/v6.5.5.html
+
+N:B: Webmaster(s) will hold the authority to exclude or include or modify the problems.
